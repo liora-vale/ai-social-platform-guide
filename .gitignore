@@ -1,0 +1,11 @@
+.env
+.env.*
+cookies/
+user-data/
+browser-profile/
+playwright/.auth/
+*.sqlite
+*.db
+*.log
+secrets/
+.DS_Store
